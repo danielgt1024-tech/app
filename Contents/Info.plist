@@ -12,6 +12,9 @@
     <string>MyApp</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
+    <!-- Add this key to match your custom PkgInfo signature -->
+    <key>CFBundleSignature</key>
+    <string>MYAP</string>
     <key>CFBundleShortVersionString</key>
     <string>1.0</string>
     <key>LSMinimumSystemVersion</key>

@@ -1,0 +1,20 @@
+{
+  "app_settings": {
+    "theme": "system",
+    "enable_telemetry": false,
+    "check_for_updates": true,
+    "default_window_size": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "api_configuration": {
+    "environment": "production",
+    "base_url": "https://example.com",
+    "timeout_ms": 5000
+  },
+  "metadata": {
+    "build_number": "104",
+    "release_channel": "stable"
+  }
+}

@@ -1,0 +1,11 @@
+/* Human-readable name in the Finder and Dock */
+CFBundleDisplayName = "My Awesome App";
+
+/* Short name used in the macOS App Menu bar */
+CFBundleName = "My App";
+
+/* The message shown when your app asks for Microphone access */
+NSMicrophoneUsageDescription = "This app needs microphone access to record your voice notes.";
+
+/* The message shown when your app asks for Camera access */
+NSCameraUsageDescription = "This app needs camera access to take your profile picture.";
